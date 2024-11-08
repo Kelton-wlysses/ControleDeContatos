@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MvcAcacianoNeves/1.0.0": {
+      "ControleDeContatos/1.0.0": {
         "runtime": {
-          "MvcAcacianoNeves.dll": {}
+          "ControleDeContatos.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MvcAcacianoNeves/1.0.0": {
+    "ControleDeContatos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

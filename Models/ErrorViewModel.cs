@@ -1,4 +1,4 @@
-namespace MvcAcacianoNeves.Models;
+namespace ControleDeContatos.Models;
 
 public class ErrorViewModel
 {

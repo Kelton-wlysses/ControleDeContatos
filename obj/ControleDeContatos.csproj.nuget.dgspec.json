@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\MvcAcacianoNeves.csproj": {}
+    "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
-    "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\MvcAcacianoNeves.csproj": {
+    "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\ControleDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\MvcAcacianoNeves.csproj",
-        "projectName": "MvcAcacianoNeves",
-        "projectPath": "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\MvcAcacianoNeves.csproj",
+        "projectUniqueName": "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectName": "ControleDeContatos",
+        "projectPath": "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\ControleDeContatos.csproj",
         "packagesPath": "C:\\Users\\Kelton\\.nuget\\packages\\",
         "outputPath": "D:\\User\\Desktop\\estudo\\Video Aulas\\2. Fazendo\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
